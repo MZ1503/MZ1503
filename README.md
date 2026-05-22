@@ -7,7 +7,7 @@ After 5 years in logistics operations — tracking containers, managing demurrag
 
 ## What I'm Building
 
-**Logistics AI Assistant **
+**Logistics AI Assistant**
 An agentic system that answers Incoterms 2020 compliance questions, tracks containers, flags demurrage risk, and calculates EU port charges, built for the problems I solved manually for years.
 CrewAI · LangGraph · Qdrant · OpenAI · AWS S3
 
