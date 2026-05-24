@@ -1,4 +1,6 @@
 # Hey, I'm Mariyam 👋
+Backend Engineer · AI Integration · Founder [@LinguaEar](https://github.com/MZ1503/LinguaEar)
+
 
 I have a background in Information Technology (B.Tech) and an 
 MBA in Transportation & Logistics.
@@ -41,7 +43,7 @@ Docker · GitHub Actions · AWS EC2 · Amazon ECR
 
 ## What I'm Looking For
 
-Backend Engineer roles where AI integration matters, building production APIs, data pipelines, and intelligent systems that solve real business problems. I am based in Germany · Open to hybrid and remote roles in Europe
+AI or Backend Engineer roles at companies building in logistics, supply chain, or freight tech  where I can contribute both domain knowledge and engineering. I spent 5 years in logistics operations and built AI to automate the workflows I managed manually. Based in Germany. Open to hybrid and remote in Europe
 
 ## Let's Connect
 
