@@ -43,7 +43,7 @@ Docker · GitHub Actions · AWS EC2 · Amazon ECR
 
 ## What I'm Looking For
 
-AI or Backend Engineer roles at companies building in logistics, supply chain, or freight tech  where I can contribute both domain knowledge and engineering. I spent 5 years in logistics operations and built AI to automate the workflows I managed manually. Based in Germany. Open to hybrid and remote in Europe
+AI or Backend Engineer roles at companies building in logistics, supply chain, or freight tech  where I can contribute both domain knowledge and engineering. I spent 5 years in logistics operations and built AI to automate the workflows I managed manually. Based in London. Open to hybrid and remote in Europe
 
 ## Let's Connect
 
