@@ -5,7 +5,7 @@ Backend Engineer · AI Integration · Founder [@LinguaEar](https://github.com/MZ
 I have a background in Information Technology (B.Tech) and an 
 MBA in Transportation & Logistics.
 
-After 5 years in logistics operations — tracking containers, managing demurrage and learning incoterms, I started building AI to automate the manual workflows I experienced firsthand.
+After 5 years in logistics operations — tracking containers, managing demurrage and learning incoterms, I started building AI integrated tools to automate the manual workflows I experienced firsthand.
 
 ## What I'm Building
 
