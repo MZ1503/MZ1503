@@ -1,5 +1,5 @@
 # Hey, I'm Mariyam 👋
-Backend Engineer · AI Integration · Founder [@LinguaEar](https://github.com/MZ1503/LinguaEar)
+Software Engineer · AI Integration · Founder [@LinguaEar](https://github.com/MZ1503/LinguaEar)
 
 
 I have a background in Information Technology (B.Tech) and an 
@@ -7,23 +7,12 @@ MBA in Transportation & Logistics.
 
 After 5 years in logistics operations — tracking containers, managing demurrage and learning incoterms, I started building AI integrated tools to automate the manual workflows I experienced firsthand.
 
-## What I'm Building
-
-**Logistics AI Assistant**
-An agentic system that answers Incoterms 2020 compliance questions, tracks containers, flags demurrage risk, and calculates EU port charges, built for the problems I solved manually for years.
-CrewAI · LangGraph · Qdrant · OpenAI · AWS S3
-
 ## What I've Shipped
 
 **Supply Chain AI Assistant** — [Live Demo](https://huggingface.co/spaces/MZ1503/supply-chain-ai-assistant) · [API](http://3.123.36.250:8000/docs)
 Natural language inventory analytics for 10,000+ SKU data.
 Ask questions in plain English, get exact answers instantly.
 FastAPI · Pandas · OpenAI · Docker · AWS EC2 · GitHub Actions
-
-**Container Tracker**
-AI-powered demurrage risk system for EU ports.
-4-node LangGraph pipeline — fetch, classify, calculate, recommend.
-LangGraph · OpenAI · Python
 
 **LinguaEar** — *Closed testing on Google Play*
 AI German learning app that listens to real conversations and gives
